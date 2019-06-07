@@ -59,7 +59,7 @@ footer-text: Copyright (c) 2019 TB Works
 disqus: Disqus shortname #shortname
 
 # 输入Google Analytics web tracking code
-google_analytics:Google Analytics web tracking code
+google_analytics:
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
